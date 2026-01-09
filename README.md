@@ -1,21 +1,35 @@
-# Deep Bayesian Active Inference
+## Self-Supervised Multimodal World Models for Continual Embodied Intelligence
 
-This repository explores the integration of **Continual Learning Variational Autoencoders (CL-VAE)** with **Bayesian Active Inference (BAI)** for **incremental lifelong learning in autonomous robot navigation**. The aim is to develop intelligent agents capable of adapting to dynamic environments, retaining prior knowledge, and generalizing beyond their training experiences.
+This repository explores **Agentic AI** frameworks for integrating multimodal data using **advanced multilayer and graph-based representations**, grounded in **Continual Learning Variational Autoencoders (CL-VAEs)** and **Bayesian Active Inference (BAI)**.
+The core objective is to develop adaptive, uncertainty-aware agents capable of lifelong learning, causal reasoning, and decision-making in complex and dynamic environments.
 
-## 🧠 Key Concepts
+The framework unifies:
+- Multimodal generative representation learning (e.g., graphs, sequences, symbolic latents),
+- Bayesian belief updating via variational inference, and
+- Active inference–driven planning and control over learned latent world models.
 
-- **Continual Learning VAE (CL-VAE):** Supports lifelong learning by combining latent space modeling with experience replay to prevent catastrophic forgetting.
-- **Bayesian World Model:** Captures the probabilistic structure of environmental dynamics and continuously updates beliefs based on new sensory inputs.
-- **Active Inference:** Leverages epistemic value and information gain to guide exploration, reduce uncertainty, and plan actions efficiently in compressed latent space.
+By combining continual generative learning with agentic inference and counterfactual reasoning, the repository aims to support intelligent systems that can integrate new information over time, retain prior knowledge, and generalize beyond their training distributions.
 
-## 🧭 Application: Autonomous Robot Navigation
+Application Domains:
 
-This framework aims to enable autonomous robots to:
-- Continuously adapt to new environments and tasks.
-- Retain and reuse previously acquired navigation strategies.
-- Actively explore uncertain regions to improve learning and planning efficiency.
+## 🤖 Autonomous & Embodied Agents
+The same principles extend to embodied intelligence, enabling agents to:
+Continuously adapt to new environments and tasks,
+Retain and reuse previously acquired strategies,
+Actively explore uncertain regions to improve learning, planning, and robustness.
 
-> **Note:**  Project is currently in development. Code and results will be shared soon.
+## 🧠 Clinical & Rare Disease Research
+This framework enables AI agents to:
+Integrate multimodal biomedical data (genomics, phenotypes, clinical records, knowledge graphs),
+Learn graph-structured latent disease representations that evolve with experience,
+Perform counterfactual reasoning and uncertainty-aware decision support,
+Support interpretable, causal, and data-efficient inference in low-sample rare disease settings.
 
+## Key Research Themes
+Agentic AI & Active Inference
+Multimodal and Graph-Based Generative Models
+Continual & Lifelong Learning
+Knowledge-Graph–Conditioned World Models
+Counterfactual Planning and Explainable Decision-Making
 
-
+**Note:**  Project is currently in development. Code and results will be shared.
