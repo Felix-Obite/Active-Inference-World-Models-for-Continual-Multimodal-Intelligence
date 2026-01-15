@@ -32,4 +32,4 @@ Continual & Lifelong Learning
 Knowledge-Graph–Conditioned World Models
 Counterfactual Planning and Explainable Decision-Making
 
-**Note:**  Project is currently in development. Code and results will be shared.
+
