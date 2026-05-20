@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Obite
+    given-names: Felix
+title: "AIDA: Active Inference Diffusion Agents"
+version: 1.0.0
+date-released: 2025
+url: "https://github.com/Felix-Obite/Active-Inference-World-Models-for-Continual-Multimodal-Intelligence"
+abstract: >
+   Adaptive, uncertainty-aware agents capable of lifelong learning, causal reasoning, and decision-making in complex and dynamic environments.
+license: MIT
